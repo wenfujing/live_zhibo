@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\AS\Other1\WSLiveDemo\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\AS\Other1\WSLiveDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-26.0.0-alpha1_a657c7956862a18c59e8903a97bb29178621a08f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AS\Other1\WSLiveDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\AS\Other1\WSLiveDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-26.0.0-alpha1_f14a541b74628b4c26f77086aada8234064669af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AS\Other1\WSLiveDemo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\AS\Other1\WSLiveDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.0.0-alpha1_e71fbfb2c4f4d4445f573b1d5a8453d4c082300a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AS\SDK\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\AS\Other1\WSLiveDemo\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_118e666a74f21aa12609cb6ffd21e14d16c9800f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AS\Other1\WSLiveDemo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\AS\Other1\WSLiveDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-26.0.0-alpha1_57a446f2d41ea8ed3fc3bfdfe1e39fb94e2bd6de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AS\Other1\WSLiveDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\AS\Other1\WSLiveDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-26.0.0-alpha1_5765f5d4c5001a6eb742fcd44f7a03b7d26bdcf4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AS\Other1\WSLiveDemo\app\build\intermediates\exploded-aar\jp.co.cyberagent.android.gpuimage\gpuimage-library\1.4.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="eb9f1cef6b29492df701111c555908cb53dece35">
+        <dex dex="D:\AS\Other1\WSLiveDemo\app\build\intermediates\pre-dexed\debug\jp.co.cyberagent.android.gpuimage-gpuimage-library-1.4.1_5590880e60a214f175ceb72563388a6e2e40dd90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AS\Other1\WSLiveDemo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\AS\Other1\WSLiveDemo\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-26.0.0-alpha1_e0247fcf2fdeab4670be5435fd6db6d921365505.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AS\Other1\WSLiveDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\AS\Other1\WSLiveDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-26.0.0-alpha1_6ca4b40fa20e7dc05b58688a7cda10b8a97a640e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AS\Other1\WSLiveDemo\app\build\intermediates\exploded-aar\com.github.WangShuo1143368701\libWSLive\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f9171c0c6157fd54c186ad8313d527dd6403a049">
+        <dex dex="D:\AS\Other1\WSLiveDemo\app\build\intermediates\pre-dexed\debug\com.github.WangShuo1143368701-libWSLive-unspecified_8d4e47aeae2f7f153848dabfa58bd11f12931498.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AS\Other1\WSLiveDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\AS\Other1\WSLiveDemo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-26.0.0-alpha1_826da8edef6518344d71eda5562fa86ef50c84a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AS\Other1\WSLiveDemo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\AS\Other1\WSLiveDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-26.0.0-alpha1_541740872f76b99fdb1b2ae690b82f36540e310c.jar" />
+    </item>
+
+</items>
